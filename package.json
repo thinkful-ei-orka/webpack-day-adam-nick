@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-orka/webpack-day-adam-nick/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-orka/webpack-day-adam-nick#readme"
+  "homepage": "https://github.com/thinkful-ei-orka/webpack-day-adam-nick#readme",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
 }
